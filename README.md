@@ -6,8 +6,6 @@
  
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsme1029&count_bg=%235B5C5B&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
  
-  <a href="https://ococ99.tistory.com"><img src="https://img.shields.io/badge/Blog-white?style=flat-square&logo=Tistory&logoColor=black"/></a>
-  <a href="https://www.notion.so/Kim-yunji-2d0a18ccd5b04573b22b1c875dfe88ac"><img src="https://img.shields.io/badge/yunji-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
   
   * * *
 
